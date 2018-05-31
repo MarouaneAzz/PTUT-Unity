@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Plateau.unity
+  isLoaded: 1
+  isActive: 1
