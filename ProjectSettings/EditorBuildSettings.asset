@@ -8,3 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Plateau.unity
     guid: 806f546945fd07f4aada96aacf72977a
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 051746c66b33bfd4894ee40d8e804c85
+  m_configObjects: {}
