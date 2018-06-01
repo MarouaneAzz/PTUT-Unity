@@ -2,18 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+public class actionChap0 : MonoBehaviour {
 
-public class MainScripts : MonoBehaviour {
-
-    public void Histoire()
+    public void chap0()
     {
         SceneManager.LoadScene("Plateau");
     }
-
-    public void Quit()
-    {
-        Application.Quit();
-    }
-
-
 }

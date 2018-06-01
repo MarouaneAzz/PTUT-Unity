@@ -315,10 +315,17 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainScripts.cs" />
-    <Compile Include="Assets\PauseScript.cs" />
+    <Compile Include="Assets\actionActe1.cs" />
+    <Compile Include="Assets\actionChap0.cs" />
+    <Compile Include="Assets\actionMenu.cs" />
+    <Compile Include="Assets\actionMenuActe.cs" />
+    <Compile Include="Assets\actionRetourChap.cs" />
+    <Compile Include="Assets\PanelActScripts.cs" />
+    <Compile Include="Assets\pause.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\CursorScript.cs" />
+    <Compile Include="Assets\Scripts\MainScripts.cs" />
+    <Compile Include="Assets\Scripts\PauseScript.cs" />
     <Compile Include="Assets\Scripts\PlayerJump.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />

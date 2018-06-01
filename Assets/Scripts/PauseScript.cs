@@ -23,17 +23,22 @@ public class PauseScript : MonoBehaviour {
         }
 	}
 
-    private void pause()
+    public void pause()
     {
         MenuPause.SetActive(true);
         Time.timeScale = 0f;
         pauseB = true;
     }
 
-    private void resume()
+    public void resume()
     {
         MenuPause.SetActive(false);
         Time.timeScale = 1f;
-        pauseB = true;
+        pauseB = false;
+    }
+
+    public void quitter()
+    {
+        Application.Quit();
     }
 }

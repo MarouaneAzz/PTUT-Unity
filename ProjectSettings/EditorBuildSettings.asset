@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Plateau.unity
-    guid: 806f546945fd07f4aada96aacf72977a
-  - enabled: 1
     path: Assets/Menu.unity
     guid: 051746c66b33bfd4894ee40d8e804c85
+  - enabled: 1
+    path: Assets/MenuActe.unity
+    guid: 853a6061a56bdbb4983ada1a388d4197
+  - enabled: 1
+    path: Assets/MenuChap.unity
+    guid: 1d1f95cffcc714848b0632746da00a6b
+  - enabled: 1
+    path: Assets/Plateau.unity
+    guid: 806f546945fd07f4aada96aacf72977a
   m_configObjects: {}
